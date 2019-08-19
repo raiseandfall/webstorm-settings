@@ -3,7 +3,10 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
   <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="meta alt right" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
 </keymap>
