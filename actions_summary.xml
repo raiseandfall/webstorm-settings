@@ -61,8 +61,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581620750056" />
-              <option name="times" value="77" />
+              <option name="last" value="1581622897436" />
+              <option name="times" value="79" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581620728870" />
-              <option name="times" value="10" />
+              <option name="last" value="1581622897629" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +381,8 @@
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581620462355" />
-              <option name="times" value="32" />
+              <option name="last" value="1581622898618" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
