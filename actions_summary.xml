@@ -338,6 +338,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581616251194" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.actions.ToolWindowViewModeAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581617048621" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.plugins.newui.PluginsTab$3$1">
           <value>
             <ActionSummary>
@@ -366,6 +382,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581556463502" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581617046802" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
