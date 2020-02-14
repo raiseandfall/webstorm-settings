@@ -357,8 +357,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581712461675" />
-              <option name="times" value="70" />
+              <option name="last" value="1581713516043" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
@@ -389,8 +389,8 @@
         <entry key="MoveTabRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581709499089" />
-              <option name="times" value="5" />
+              <option name="last" value="1581713518961" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,8 +493,8 @@
         <entry key="ToggleDistractionFreeMode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581709513035" />
-              <option name="times" value="3" />
+              <option name="last" value="1581713521044" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581712462489" />
-              <option name="times" value="92" />
+              <option name="last" value="1581713517894" />
+              <option name="times" value="93" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581712462231" />
-              <option name="times" value="54" />
+              <option name="last" value="1581713517527" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
