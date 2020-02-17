@@ -325,8 +325,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581899629586" />
-              <option name="times" value="61" />
+              <option name="last" value="1581903072547" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
@@ -613,8 +613,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581900283374" />
-              <option name="times" value="30" />
+              <option name="last" value="1581903081695" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
