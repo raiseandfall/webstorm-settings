@@ -21,8 +21,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581984606342" />
-              <option name="times" value="43" />
+              <option name="last" value="1582042500477" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581987947475" />
-              <option name="times" value="318" />
+              <option name="last" value="1582042499744" />
+              <option name="times" value="319" />
             </ActionSummary>
           </value>
         </entry>
@@ -237,8 +237,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581987950043" />
-              <option name="times" value="348" />
+              <option name="last" value="1582042500667" />
+              <option name="times" value="349" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581984605871" />
-              <option name="times" value="36" />
+              <option name="last" value="1582042500121" />
+              <option name="times" value="37" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,16 +669,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
-              <option name="last" value="1581984613348" />
-              <option name="times" value="96" />
+              <option name="last" value="1582042504270" />
+              <option name="times" value="98" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$13">
           <value>
             <ActionSummary>
-              <option name="last" value="1581984612459" />
-              <option name="times" value="32" />
+              <option name="last" value="1582042526043" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
