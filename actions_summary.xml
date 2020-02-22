@@ -10,6 +10,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="$Delete">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582336107649" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$Paste">
           <value>
             <ActionSummary>
@@ -93,8 +101,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582322105933" />
-              <option name="times" value="3011" />
+              <option name="last" value="1582336129193" />
+              <option name="times" value="3016" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +381,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582322234406" />
-              <option name="times" value="263" />
+              <option name="last" value="1582336077733" />
+              <option name="times" value="268" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +493,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582320953155" />
-              <option name="times" value="1174" />
+              <option name="last" value="1582336141935" />
+              <option name="times" value="1176" />
             </ActionSummary>
           </value>
         </entry>
@@ -701,8 +709,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582313330289" />
-              <option name="times" value="136" />
+              <option name="last" value="1582336103613" />
+              <option name="times" value="143" />
             </ActionSummary>
           </value>
         </entry>
