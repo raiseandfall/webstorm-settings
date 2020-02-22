@@ -45,8 +45,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582303373691" />
-              <option name="times" value="3" />
+              <option name="last" value="1582334231606" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -450,6 +450,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="OpenFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582334212144" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="OptimizeImports">
           <value>
             <ActionSummary>
@@ -661,8 +669,8 @@
         <entry key="com.intellij.ide.actions.ToolWindowViewModeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582303369849" />
-              <option name="times" value="5" />
+              <option name="last" value="1582334234750" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -733,8 +741,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582303366818" />
-              <option name="times" value="12" />
+              <option name="last" value="1582334232613" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
