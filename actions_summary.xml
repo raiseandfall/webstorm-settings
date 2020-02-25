@@ -77,8 +77,8 @@
         <entry key="CloseProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582557299517" />
-              <option name="times" value="7" />
+              <option name="last" value="1582590794552" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582321285342" />
-              <option name="times" value="8" />
+              <option name="last" value="1582590799397" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -757,8 +757,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582334232613" />
-              <option name="times" value="16" />
+              <option name="last" value="1582590830208" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
