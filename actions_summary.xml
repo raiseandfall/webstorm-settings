@@ -53,8 +53,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582653227740" />
-              <option name="times" value="20" />
+              <option name="last" value="1582664225499" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="CloseProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582645732877" />
-              <option name="times" value="10" />
+              <option name="last" value="1582664197279" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,8 +437,8 @@
         <entry key="MoveTabRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582645930830" />
-              <option name="times" value="23" />
+              <option name="last" value="1582664242139" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +581,8 @@
         <entry key="ToggleDistractionFreeMode">
           <value>
             <ActionSummary>
-              <option name="last" value="1582645932135" />
-              <option name="times" value="29" />
+              <option name="last" value="1582664194031" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,8 +709,8 @@
         <entry key="com.intellij.ide.actions.ToolWindowViewModeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582334234750" />
-              <option name="times" value="6" />
+              <option name="last" value="1582664228437" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582590830208" />
-              <option name="times" value="18" />
+              <option name="last" value="1582664226455" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
