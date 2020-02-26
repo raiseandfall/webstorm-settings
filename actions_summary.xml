@@ -141,8 +141,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582670880121" />
-              <option name="times" value="844" />
+              <option name="last" value="1582734736302" />
+              <option name="times" value="845" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582670817239" />
-              <option name="times" value="928" />
+              <option name="last" value="1582734737062" />
+              <option name="times" value="929" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582670931158" />
-              <option name="times" value="300" />
+              <option name="last" value="1582734736861" />
+              <option name="times" value="301" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="MoveTabRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582664242139" />
-              <option name="times" value="24" />
+              <option name="last" value="1582734733778" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
@@ -765,8 +765,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582670932778" />
-              <option name="times" value="181" />
+              <option name="last" value="1582734731449" />
+              <option name="times" value="183" />
             </ActionSummary>
           </value>
         </entry>
