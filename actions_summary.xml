@@ -53,8 +53,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582818709601" />
-              <option name="times" value="39" />
+              <option name="last" value="1582901645542" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="MoveTabRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582816364037" />
-              <option name="times" value="27" />
+              <option name="last" value="1582901643040" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
