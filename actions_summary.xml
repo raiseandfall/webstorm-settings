@@ -29,8 +29,8 @@
         <entry key="$Redo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582669413520" />
-              <option name="times" value="6" />
+              <option name="last" value="1582903489099" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,16 +45,16 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582835588820" />
-              <option name="times" value="272" />
+              <option name="last" value="1582903487866" />
+              <option name="times" value="274" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582901645542" />
-              <option name="times" value="45" />
+              <option name="last" value="1582903497570" />
+              <option name="times" value="47" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CloseProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582747805371" />
-              <option name="times" value="12" />
+              <option name="last" value="1582903500233" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +117,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582902313619" />
-              <option name="times" value="4011" />
+              <option name="last" value="1582903492943" />
+              <option name="times" value="4015" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582839072505" />
-              <option name="times" value="311" />
+              <option name="last" value="1582903491302" />
+              <option name="times" value="312" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,8 +645,8 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1582670873885" />
-              <option name="times" value="42" />
+              <option name="last" value="1582903494767" />
+              <option name="times" value="43" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +773,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582818710169" />
-              <option name="times" value="195" />
+              <option name="last" value="1582903496772" />
+              <option name="times" value="200" />
             </ActionSummary>
           </value>
         </entry>
