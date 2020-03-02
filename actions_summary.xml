@@ -37,8 +37,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582926324949" />
-              <option name="times" value="152" />
+              <option name="last" value="1583178467818" />
+              <option name="times" value="154" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582915554372" />
-              <option name="times" value="54" />
+              <option name="last" value="1583178443547" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CloseProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582903500233" />
-              <option name="times" value="13" />
+              <option name="last" value="1583177921311" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582926816659" />
-              <option name="times" value="994" />
+              <option name="last" value="1583178468079" />
+              <option name="times" value="996" />
             </ActionSummary>
           </value>
         </entry>
@@ -445,8 +445,8 @@
         <entry key="MoveTabRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582924889757" />
-              <option name="times" value="30" />
+              <option name="last" value="1583178442097" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582922751522" />
-              <option name="times" value="14" />
+              <option name="last" value="1583177923651" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
