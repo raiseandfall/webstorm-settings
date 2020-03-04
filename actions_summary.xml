@@ -85,8 +85,8 @@
         <entry key="CloseProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1583348771494" />
-              <option name="times" value="17" />
+              <option name="last" value="1583350701280" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +797,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1583349743871" />
-              <option name="times" value="231" />
+              <option name="last" value="1583350691934" />
+              <option name="times" value="233" />
             </ActionSummary>
           </value>
         </entry>
