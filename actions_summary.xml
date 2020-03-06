@@ -125,8 +125,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583518367039" />
-              <option name="times" value="8005" />
+              <option name="last" value="1583518407460" />
+              <option name="times" value="8011" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1583518257917" />
-              <option name="times" value="1816" />
+              <option name="last" value="1583518402683" />
+              <option name="times" value="1817" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorLineStartWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1583518361362" />
-              <option name="times" value="264" />
+              <option name="last" value="1583518407030" />
+              <option name="times" value="265" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1583517858349" />
-              <option name="times" value="407" />
+              <option name="last" value="1583518395083" />
+              <option name="times" value="408" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,8 +837,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583517861449" />
-              <option name="times" value="583" />
+              <option name="last" value="1583518399270" />
+              <option name="times" value="584" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,8 +901,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1583517860849" />
-              <option name="times" value="658" />
+              <option name="last" value="1583518398983" />
+              <option name="times" value="661" />
             </ActionSummary>
           </value>
         </entry>
