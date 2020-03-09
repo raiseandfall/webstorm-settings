@@ -53,8 +53,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1583439921232" />
-              <option name="times" value="97" />
+              <option name="last" value="1583779755930" />
+              <option name="times" value="101" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CloseProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1583439752518" />
-              <option name="times" value="20" />
+              <option name="last" value="1583779251226" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583531958089" />
-              <option name="times" value="8340" />
+              <option name="last" value="1583779305432" />
+              <option name="times" value="8360" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1583531238320" />
-              <option name="times" value="1913" />
+              <option name="last" value="1583779312426" />
+              <option name="times" value="1915" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,16 +453,16 @@
         <entry key="MoveTabRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1583530739207" />
-              <option name="times" value="45" />
+              <option name="last" value="1583779313977" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="NewDir">
           <value>
             <ActionSummary>
-              <option name="last" value="1583514906168" />
-              <option name="times" value="7" />
+              <option name="last" value="1583779281606" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="NewFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1583521092313" />
-              <option name="times" value="12" />
+              <option name="last" value="1583779298512" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +557,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1583531445769" />
-              <option name="times" value="2789" />
+              <option name="last" value="1583779312717" />
+              <option name="times" value="2791" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,16 +773,16 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583439055058" />
-              <option name="times" value="19" />
+              <option name="last" value="1583779254821" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.actions.ToolWindowViewModeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583439924887" />
-              <option name="times" value="9" />
+              <option name="last" value="1583779758688" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1583531656132" />
-              <option name="times" value="334" />
+              <option name="last" value="1583779261639" />
+              <option name="times" value="341" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583439922720" />
-              <option name="times" value="26" />
+              <option name="last" value="1583779756794" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
