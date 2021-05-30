@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="pre-push" type="AUTO_DETECTED" />
-      <mapping pattern="feature-flag" type="AUTO_DETECTED" />
       <mapping pattern="indexts" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="pre-push" type="AUTO_DETECTED" />
+      <mapping pattern="feature-flag" type="AUTO_DETECTED" />
       <mapping pattern="mockBlockchainInfoResponse" type="JSON" />
-      <mapping pattern="test-data" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="test-data" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
